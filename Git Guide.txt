@@ -1,0 +1,8 @@
+🧠 What is Git?
+Git is a version control system used to track changes in source code during software development. It helps:
+
+Collaborate with teams
+
+Roll back to previous code
+
+Manage different versions (branches)
